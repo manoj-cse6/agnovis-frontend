@@ -1,0 +1,6 @@
+{
+  "name": "AgnoVis AI",
+  "description": "Multilingual AI-powered precision agriculture application empowering farmers with crop disease diagnosis, pest detection, treatment plans, and field history in English, Telugu, Hindi, and Marathi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
